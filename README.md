@@ -1,2 +1,2 @@
-# Linux _cmd
+# Basic Linux _cmd
  
